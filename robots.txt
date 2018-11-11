@@ -1,2 +1,2 @@
 User-agent: *
-Host: iaskov.com
+Host: cv.yaskovdev.com
