@@ -1,2 +1,2 @@
-# cv
+# CV
 My CV Web page.
